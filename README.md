@@ -214,5 +214,3 @@ This project is licensed under the **MIT License** — you’re free to use and 
 
 ---
 
-Would you like me to now create a **Postman collection JSON file** (ready to import and test all endpoints automatically)?
-That would make your GitHub repo and documentation 100% complete and professional.
